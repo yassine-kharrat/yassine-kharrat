@@ -75,7 +75,49 @@
 <h4 align="left">⚙️ DevOps & Tools:</h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-   <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a>
 </p>
+
+<h4 align="left">📌 Projects (CV names, same order as the pins below):</h4>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img align="right" alt="Roua-Khalfet/Nexaura" src="https://img.shields.io/badge/Roua--Khalfet%2FNexaura-30363d?style=plastic"/>
+      <b>Nexaura</b><br/>
+      AI copilot that turns an idea into a startup: Legal audit, SWOT, Personas, Competitor Analysis (Smart Systems partnership)
+    </td>
+    <td width="50%">
+      <img align="right" alt="mazighahmed/AI_Project_pharmAI" src="https://img.shields.io/badge/mazighahmed%2FAI__Project__pharmAI-30363d?style=plastic"/>
+      <b>PharmAI</b><br/>
+      Pharmacy decision support: demand forecasting for 1,600 references, agentic RAG assistant (Cogepha partnership)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img align="right" alt="hackathon-EY-Dauphine" src="https://img.shields.io/badge/hackathon--EY--Dauphine-30363d?style=plastic"/>
+      <b>Hackathon Dauphine×EY (IntegriCar)</b><br/>
+      AI assistant for insurers: YOLO11 damage detection, cost estimation, CrewAI legal agents, bilingual voice support. 2nd place
+    </td>
+    <td width="50%">
+      <img align="right" alt="sarrabousnina/CyberIA_Hack_EagleScout" src="https://img.shields.io/badge/sarrabousnina%2FCyberIA__Hack__EagleScout-30363d?style=plastic"/>
+      <b>CYBERIA (EagleScout)</b><br/>
+      Privacy-preserving CVE intelligence: cloud agent collects NVD and OTX feeds, local hybrid retrieval and LLM reasoning, 2nd place
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img align="right" alt="sarrabousnina/Furniverse" src="https://img.shields.io/badge/sarrabousnina%2FFurniverse-30363d?style=plastic"/>
+      <b>Furniverse</b><br/>
+      Multimodal furniture search that fuses text, image, co-purchase graph and color signals, plus YOLOv8 room analysis and AR preview
+    </td>
+    <td width="50%">
+      <img align="right" alt="youssefbenlallahom/emergency-first-aid-app" src="https://img.shields.io/badge/youssefbenlallahom%2Femergency--first--aid--app-30363d?style=plastic"/>
+      <b>Monkedh</b><br/>
+      Multimodal emergency triage fusing video, audio and agents, running locally (Ministry of Health partnership)
+    </td>
+  </tr>
+</table>
